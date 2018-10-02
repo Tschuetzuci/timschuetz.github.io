@@ -2,13 +2,11 @@
 layout: post
 permalink: /about/index.html
 title: About
-description: I am a cultural anthropologist
+description: Tim Schütz
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
-
-## Bio
 
 I am a trained social scientist with a BA in Media, Communication and Cultural Studies from the University of Bremen, Germany (2012–2017). Currently, I am a master‘s student in Science and Technology Studies (STS) at the Goethe University Frankfurt and the University of California, Irvine (2018-19). 
 
@@ -20,5 +18,5 @@ I am a fellow of the German National Academic Foundation (SDV) and the German-Am
 
 Please find below two different versions of my recent resume.
 
-### The Name
+## The Name
 Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
