@@ -17,6 +17,3 @@ I am a fellow of the German National Academic Foundation (SDV) and the German-Am
 ## CV
 
 Please find below two different versions of my recent resume.
-
-## The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
