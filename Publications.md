@@ -8,17 +8,36 @@ image:
   feature: soft-trees.jpg
 ---
 
-## Bio
+##### JOURNAL ARTICLES
 
-I am a trained social scientist with a BA in Media, Communication and Cultural Studies from the University of Bremen, Germany (2012–2017). Currently, I am a master‘s student in Science and Technology Studies (STS) at the Goethe University Frankfurt and the University of California, Irvine (2018-19). 
+2017 [Humanitarian media interventions: doing infrastructures in times of forced migration](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/). Spheres Journal for Digital Cultures #3. Open Access (with Sebastian Kubitschko).
 
-My research interests focus on (alternative) digital technologies and infrastructures, hacker politics and culture, media and migration, critical humanitarianism, institutional ethnography as well as technology in the old age.
 
-I am a fellow of the German National Academic Foundation (SDV) and the German-American Fulbright Foundation.
+##### BOOK CHAPTERS
 
-## CV
+(in review) „Internet Access is a Human Right“ – Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration. In: McGuirk, S & Pine A (eds.): Profit, Protest, and the Asylum Industry (forthcoming). (with Monic Meisel).
 
-Please find below two different versions of my recent resume.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+##### THESIS
+
+2017 [Humanitarian Modulations: Doing ‚Free‘ (Media and Communication) Infrastructures in Times of Forced Migration](http://nbn-resolving.de/urn:nbn:de:gbv:46-00106066-16). BA Thesis, University of Bremen. Open Access.
+
+
+##### OTHER
+(in press) Country Report Germany. From the shelter to the classroom: Two Case Studies Of Civic Participation Through Freifunk Berlin. Global Information Society Watch Yearbook (with Monic Meisel).
+
+
+##### PRESENTATIONS
+
+"Hacking the Shelter? Alternative mesh networks and STS research in times of forced migration." 
+How can Science and Technology Studies help to reflect on the political crisis associated with refugees and asylum seekers? (Paper workshop, CES, Coimbra, Portugal, 26-28 September 2018
+
+“Hacking the shelter: infrastructural “counter publics” and the management of forced migration.” EASST 2018 Conference: Meetings: Making Science, Technolog and Society Together, Lancaster, UK, 25-27 July 2018
+
+”Humanitäre Medieninterventionen. Infrastrukturierung freier Datennetze zwischen sozialen Trägern, zivilem Engagement und Asylindustrie.” Willkommenskultur in der Migrationsgesellschaft: Flucht, Asyl und Regulierungspraxis, Workshop at the Institute for Ethnology, LMU Munich, Germany, 2-3 February 2018
+
+“Wie Freifunken in der Asylindustrie? Notizen aus der Partizipationsforschung.” Open Infrastructure Stage, 34C3 Chaos Communication Congress, Leipzig, Germany, 30 December 2017.
+
+”Humanitarian Media Intervention: Doing Free/Open Infrastructures in Times of Forced Migration.” Contested Borderscapes: Transnational Geographies vis-à-vis Fortress Europe. Mytilene, Greece September 28 - October 1 2017.
+
+“Flucht, Unterkunft, Freifunk?” Research Insights Student Conference #2, University of Bremen, July 23 2015.
