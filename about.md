@@ -1,26 +1,24 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+title: About
+description: I am a cultural anthropologist
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+## Bio
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+I am a trained social scientist with a BA in Media, Communication and Cultural Studies from the University of Bremen, Germany (2012–2017). Currently, I am a master‘s student in Science and Technology Studies (STS) at the Goethe University Frankfurt and the University of California, Irvine (2018-19). 
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+My research interests focus on (alternative) digital technologies and infrastructures, hacker politics and culture, media and migration, critical humanitarianism, institutional ethnography as well as technology in the old age.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+I am a fellow of the German National Academic Foundation (SDV) and the German-American Fulbright Foundation.
+
+## CV
+
+Please find below two different versions of my recent resume.
 
 ### The Name
 Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
